@@ -24,7 +24,7 @@ A running list of things to work on for the portfolio site. Check items off as t
 - [x] **Add project: Security research / red teaming tools** — added (HTA, worm PoC, malware analysis). ⚠️ Uses a generated placeholder `security.png` and profile GitHub link — replace both with a real screenshot/repo when available
 - [x] **Switch CV to the new file** — renamed to `Mamlin_John_CV.pdf`, updated the download link, removed old `mycv.pdf`
 - [ ] Check the contact section (email, socials) is current
-- [x] Add phone number to contact section: **0745038288** (shown as +254 745 038 288; replaced the old number in header + contact card)
+- [x] Add phone number to contact section: show **both** 0745038288 / 0758659182 (displayed as "+254 745 038 288 / +254 758 659 182"; tap-to-call link uses the primary 0745038288)
 - [ ] Test responsiveness on mobile and tablet
 
 ## ⚡ Performance & cleanup
