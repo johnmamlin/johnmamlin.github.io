@@ -16,7 +16,7 @@ A running list of things to work on for the portfolio site. Check items off as t
 ## 🎨 Design & content
 
 - [ ] Review/update the hero section (name, tagline, photo)
-- [ ] Update the About section with current bio
+- [x] Update the About section with current bio (rewrote intro + "Skills & Expertise" lead + "What drives me" to match the entrepreneur / AI-robotics-hardware-systems-health-informatics positioning)
 - [ ] Add/update project entries (hospital, wallet, web movie, placement, email sender)
   - [ ] Write a short description for each project
   - [ ] Add live demo and GitHub repo links for each
