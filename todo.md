@@ -22,7 +22,7 @@ A running list of things to work on for the portfolio site. Check items off as t
   - [ ] Add live demo and GitHub repo links for each
 - [x] **Add project: LinkIntern** — added at top of projects grid (MongoDB, React JS, JavaScript, Clerk), using `LinkINtern.png`. ⚠️ GitHub link points to profile — swap in the real repo URL when available
 - [x] **Add project: Security research / red teaming tools** — added (HTA, worm PoC, malware analysis). ⚠️ Uses a generated placeholder `security.png` and profile GitHub link — replace both with a real screenshot/repo when available
-- [x] **Add project: OnaPay** — real-estate escrow payment system (Flutterwave + Daraja/M-Pesa, escrow until check-in), live at https://onarealty.com/. Added as first project using `Onapay1.png`. ⚠️ "View Code" link points to the live site (no public repo); `Onapay2.png`/`Onapay3.png` unused — could add a gallery later
+- [x] **Add project: OnaPay** — real-estate escrow payment system (Flutterwave + Daraja/M-Pesa, escrow until check-in), live at https://onarealty.com/. Added as first project. Now auto-rotates through all 3 images (`Onapay1-3.png`) every 3s via a `RotatingImg` component. ⚠️ "View Code" link points to the live site (no public repo)
 - [x] **Add experience: Software Engineer @ OnaRealty** — added as first professional-experience entry. ⚠️ Start date is a placeholder "2025 — Present" — confirm the real start month
 - [x] **Switch CV to the new file** — renamed to `Mamlin_John_CV.pdf`, updated the download link, removed old `mycv.pdf`
 - [ ] Check the contact section (email, socials) is current
