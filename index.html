@@ -24,8 +24,23 @@
     body { font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif; }
   </style>
   <title>John Mamlin Kimtai — Portfolio</title>
-  <script type="module" crossorigin src="/assets/index-Dh19H7b-.js?v=123467"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-B-qEmm01.css?v=123467">
+  <script type="module" crossorigin src="/assets/index-Dh19H7b-.js?v=123468"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-B-qEmm01.css?v=123468">
+  <style>
+    /* Nudge the whole type scale up ~one step. Tailwind v4 drives every
+       text-* utility off these vars, and the line-heights are unitless
+       ratios, so they scale with it. Must sit AFTER the bundle stylesheet
+       so these :root values win. */
+    :root {
+      --text-xs: .8125rem;
+      --text-sm: .9375rem;
+      --text-base: 1.0625rem;
+      --text-lg: 1.1875rem;
+      --text-xl: 1.3125rem;
+      --text-2xl: 1.625rem;
+      --text-4xl: 2.375rem;
+    }
+  </style>
 </head>
 
 <body>
